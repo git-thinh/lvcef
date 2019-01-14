@@ -6,6 +6,7 @@ This project is not currently maintained, but if you're interested get in touch
 
 Overview <a name="overview"></a>
 --------
+https://www.joelverhagen.com/blog/2013/12/headless-chromium-in-c-with-cefglue/
 
 The Chrome Embedded Framework Toolkit for LabVIEW (LVCef) utilizes the [Xilium.CefGlue](https://bitbucket.org/xilium/xilium.cefglue/wiki/Home) .NET interface for [Chrome Embedded Framework 3.X](https://code.google.com/p/chromiumembedded/) and provides a Windows Form control + LabVIEW library with the following properties:
 
